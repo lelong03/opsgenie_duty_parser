@@ -1,0 +1,1464 @@
+{
+    "fLayer": {
+        "weeks": [
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/08/26 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/08/30 09:00",
+                                "type": "or",
+                                "et": 378000000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 30-08-2019",
+                                "historyVersion": 89,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1566752400000,
+                                "end": 0,
+                                "endTime": 1567130400000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Tung Vu",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Tung Vu",
+                                        "id": "06324d30-8467-4590-a6a1-8f53d8f503de",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "tung.vu1@lazada.com"
+                                    }
+                                ],
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/08/30 09:00",
+                                "stf": "09:00 30-08-2019",
+                                "endTimeSchFormatted": "2019/08/30 15:01",
+                                "type": "sch",
+                                "et": 399691500,
+                                "recp": {
+                                    "id": "06324d30-8467-4590-a6a1-8f53d8f503de",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "15:01 30-08-2019",
+                                "historyVersion": 89,
+                                "recipient": "tung.vu1@lazada.com",
+                                "startTime": 1567130400000,
+                                "endTime": 1567152091500
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 399691500,
+                                "startTimeSchFormatted": "2019/08/30 15:01",
+                                "stf": "15:01 30-08-2019",
+                                "endTimeSchFormatted": "2019/09/02 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "historyVersion": 0,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567152091500,
+                                "end": 0,
+                                "endTime": 1567357200000,
+                                "iAt": "0"
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/02 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/06 18:00",
+                                "type": "or",
+                                "et": 410400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "18:00 06-09-2019",
+                                "historyVersion": 0,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567357200000,
+                                "end": 0,
+                                "endTime": 1567767600000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 410400000,
+                                "startTimeSchFormatted": "2019/09/06 18:00",
+                                "stf": "18:00 06-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 09-09-2019",
+                                "historyVersion": 91,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1567767600000,
+                                "end": 0,
+                                "endTime": 1567962000000,
+                                "iAt": "0"
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/09 00:00",
+                                "stf": "00:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 09-09-2019",
+                                "historyVersion": 91,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567962000000,
+                                "end": 0,
+                                "endTime": 1567994400000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 32400000,
+                                "startTimeSchFormatted": "2019/09/09 09:00",
+                                "stf": "09:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 09:00",
+                                "type": "or",
+                                "et": 32431699,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 09-09-2019",
+                                "historyVersion": 91,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1567994400000,
+                                "end": 0,
+                                "endTime": 1567994431699,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 32431699,
+                                "startTimeSchFormatted": "2019/09/09 09:00",
+                                "stf": "09:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 11:00",
+                                "type": "or",
+                                "et": 39600000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "11:00 09-09-2019",
+                                "historyVersion": 92,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567994431699,
+                                "end": 0,
+                                "endTime": 1568001600000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 39600000,
+                                "startTimeSchFormatted": "2019/09/09 11:00",
+                                "stf": "11:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/10 00:00",
+                                "type": "or",
+                                "et": 86400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 10-09-2019",
+                                "historyVersion": 92,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568001600000,
+                                "end": 0,
+                                "endTime": 1568048400000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 86400000,
+                                "startTimeSchFormatted": "2019/09/10 00:00",
+                                "stf": "00:00 10-09-2019",
+                                "endTimeSchFormatted": "2019/09/10 12:00",
+                                "type": "sch",
+                                "et": 129600000,
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "12:00 10-09-2019",
+                                "historyVersion": 92,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568048400000,
+                                "endTime": 1568091600000
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 129600000,
+                                "startTimeSchFormatted": "2019/09/10 12:00",
+                                "stf": "12:00 10-09-2019",
+                                "endTimeSchFormatted": "2019/09/11 00:00",
+                                "type": "or",
+                                "et": 172800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 11-09-2019",
+                                "historyVersion": 94,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568091600000,
+                                "end": 0,
+                                "endTime": 1568134800000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 172800000,
+                                "startTimeSchFormatted": "2019/09/11 00:00",
+                                "stf": "00:00 11-09-2019",
+                                "endTimeSchFormatted": "2019/09/12 12:00",
+                                "type": "sch",
+                                "et": 302400000,
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "12:00 12-09-2019",
+                                "historyVersion": 94,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568134800000,
+                                "endTime": 1568264400000
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 302400000,
+                                "startTimeSchFormatted": "2019/09/12 12:00",
+                                "stf": "12:00 12-09-2019",
+                                "endTimeSchFormatted": "2019/09/13 21:32",
+                                "type": "or",
+                                "et": 423120000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "21:32 13-09-2019",
+                                "historyVersion": 95,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568264400000,
+                                "end": 0,
+                                "endTime": 1568385120000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 423120000,
+                                "startTimeSchFormatted": "2019/09/13 21:32",
+                                "stf": "21:32 13-09-2019",
+                                "endTimeSchFormatted": "2019/09/14 09:00",
+                                "type": "or",
+                                "et": 464400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 14-09-2019",
+                                "historyVersion": 96,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568385120000,
+                                "end": 0,
+                                "endTime": 1568426400000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 464400000,
+                                "startTimeSchFormatted": "2019/09/14 09:00",
+                                "stf": "09:00 14-09-2019",
+                                "endTimeSchFormatted": "2019/09/16 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "historyVersion": 0,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568426400000,
+                                "end": 0,
+                                "endTime": 1568566800000,
+                                "iAt": "0"
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/16 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/16 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 16-09-2019",
+                                "historyVersion": 0,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568566800000,
+                                "end": 0,
+                                "endTime": 1568599200000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 32400000,
+                                "startTimeSchFormatted": "2019/09/16 09:00",
+                                "stf": "09:00 16-09-2019",
+                                "endTimeSchFormatted": "2019/09/16 10:30",
+                                "type": "sch",
+                                "et": 37800000,
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "10:30 16-09-2019",
+                                "historyVersion": 97,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568599200000,
+                                "endTime": 1568604600000
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 37800000,
+                                "startTimeSchFormatted": "2019/09/16 10:30",
+                                "stf": "10:30 16-09-2019",
+                                "endTimeSchFormatted": "2019/09/17 09:00",
+                                "type": "or",
+                                "et": 118800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 17-09-2019",
+                                "historyVersion": 98,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568604600000,
+                                "end": 0,
+                                "endTime": 1568685600000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 118800000,
+                                "startTimeSchFormatted": "2019/09/17 09:00",
+                                "stf": "09:00 17-09-2019",
+                                "endTimeSchFormatted": "2019/09/20 09:00",
+                                "type": "sch",
+                                "et": 378000000,
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 20-09-2019",
+                                "historyVersion": 98,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568685600000,
+                                "endTime": 1568944800000
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/09/20 09:00",
+                                "stf": "09:00 20-09-2019",
+                                "endTimeSchFormatted": "2019/09/23 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "historyVersion": 0,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568944800000,
+                                "end": 0,
+                                "endTime": 1569171600000,
+                                "iAt": "0"
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Thao Nguyen",
+                                        "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "thao.nguyen@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/23 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/23 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 23-09-2019",
+                                "historyVersion": 0,
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1569171600000,
+                                "end": 0,
+                                "endTime": 1569204000000,
+                                "iAt": "0"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 32400000,
+                                "startTimeSchFormatted": "2019/09/23 09:00",
+                                "stf": "09:00 23-09-2019",
+                                "endTimeSchFormatted": "2019/09/30 00:00",
+                                "type": "sch",
+                                "et": 604800000,
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "historyVersion": 0,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1569204000000,
+                                "endTime": 1569776400000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "flattened": [
+                                    {
+                                        "customerId": "30eb9c7e-34df-4bf2-96e0-1d19bd987f7e",
+                                        "name": "Long Le",
+                                        "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                        "type": "user",
+                                        "isForwarded": false,
+                                        "username": "long.le0503@lazada.com"
+                                    }
+                                ],
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/30 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/10/01 23:01",
+                                "type": "sch",
+                                "et": 169285119,
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "23:01 01-10-2019",
+                                "historyVersion": 0,
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1569776400000,
+                                "endTime": 1569945685119
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 169285119,
+                                "startTimeSchFormatted": "2019/10/01 23:01",
+                                "stf": "23:01 01-10-2019",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 04-10-2019",
+                                "endTimeSchFormatted": "2019/10/04 09:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1569945685119,
+                                "endTime": 1570154400000,
+                                "type": "sch",
+                                "et": 378000000
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/10/04 09:00",
+                                "stf": "09:00 04-10-2019",
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/10/07 00:00",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1570154400000,
+                                "endTime": 1570381200000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            }
+        ],
+        "weekNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+        ]
+    },
+    "currentTime": 1569945685470,
+    "startMillis": 1566752400000,
+    "currentTimeFormatted": "2019/10/01 23:01",
+    "sLayer": {
+        "weeks": [
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/08/26 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/02 00:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1566752400000,
+                                "endTime": 1567357200000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/02 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 06-09-2019",
+                                "endTimeSchFormatted": "2019/09/06 09:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1567357200000,
+                                "endTime": 1567735200000,
+                                "type": "sch",
+                                "et": 378000000
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/09/06 09:00",
+                                "stf": "09:00 06-09-2019",
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/09 00:00",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567735200000,
+                                "endTime": 1567962000000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/09 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/16 00:00",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567962000000,
+                                "endTime": 1568566800000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/16 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 20-09-2019",
+                                "endTimeSchFormatted": "2019/09/20 09:00",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568566800000,
+                                "endTime": 1568944800000,
+                                "type": "sch",
+                                "et": 378000000
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/09/20 09:00",
+                                "stf": "09:00 20-09-2019",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/23 00:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568944800000,
+                                "endTime": 1569171600000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/23 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/30 00:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1569171600000,
+                                "endTime": 1569776400000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/30 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 04-10-2019",
+                                "endTimeSchFormatted": "2019/10/04 09:00",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1569776400000,
+                                "endTime": 1570154400000,
+                                "type": "sch",
+                                "et": 378000000
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/10/04 09:00",
+                                "stf": "09:00 04-10-2019",
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/10/07 00:00",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1570154400000,
+                                "endTime": 1570381200000,
+                                "type": "sch",
+                                "et": 604800000
+                            }
+                        ],
+                        "id": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            }
+        ],
+        "weekNumbers": []
+    },
+    "oLayer": {
+        "weeks": [
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 399600000,
+                                "startTimeSchFormatted": "2019/08/30 15:00",
+                                "stf": "15:00 30-08-2019",
+                                "endTimeSchFormatted": "2019/09/02 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567152000000,
+                                "end": 1567843200000,
+                                "endTime": 1567357200000,
+                                "iAt": "1567152091456000041"
+                            }
+                        ],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/02 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/06 18:00",
+                                "type": "or",
+                                "et": 410400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "18:00 06-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567357200000,
+                                "end": 1567843200000,
+                                "endTime": 1567767600000,
+                                "iAt": "1567152091456000041"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 410400000,
+                                "startTimeSchFormatted": "2019/09/06 18:00",
+                                "stf": "18:00 06-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 09-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1567767600000,
+                                "end": 1567962000000,
+                                "endTime": 1567962000000,
+                                "iAt": "1567757210204000044"
+                            }
+                        ],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/09 00:00",
+                                "stf": "00:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 09-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567962000000,
+                                "end": 1567994400000,
+                                "endTime": 1567994400000,
+                                "iAt": "1567757245284000041"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 32400000,
+                                "startTimeSchFormatted": "2019/09/09 09:00",
+                                "stf": "09:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/09 11:00",
+                                "type": "or",
+                                "et": 39600000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "11:00 09-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1567994400000,
+                                "end": 1568001600000,
+                                "endTime": 1568001600000,
+                                "iAt": "1567994431684000085"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 39600000,
+                                "startTimeSchFormatted": "2019/09/09 11:00",
+                                "stf": "11:00 09-09-2019",
+                                "endTimeSchFormatted": "2019/09/10 00:00",
+                                "type": "or",
+                                "et": 86400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 10-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568001600000,
+                                "end": 1568048400000,
+                                "endTime": 1568048400000,
+                                "iAt": "1567757298094000039"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 129600000,
+                                "startTimeSchFormatted": "2019/09/10 12:00",
+                                "stf": "12:00 10-09-2019",
+                                "endTimeSchFormatted": "2019/09/11 00:00",
+                                "type": "or",
+                                "et": 172800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 11-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568091600000,
+                                "end": 1568134800000,
+                                "endTime": 1568134800000,
+                                "iAt": "1568049151773000039"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 302400000,
+                                "startTimeSchFormatted": "2019/09/12 12:00",
+                                "stf": "12:00 12-09-2019",
+                                "endTimeSchFormatted": "2019/09/13 21:32",
+                                "type": "or",
+                                "et": 423120000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "21:32 13-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568264400000,
+                                "end": 1568599200000,
+                                "endTime": 1568385120000,
+                                "iAt": "1568260478120000038"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 423120000,
+                                "startTimeSchFormatted": "2019/09/13 21:32",
+                                "stf": "21:32 13-09-2019",
+                                "endTimeSchFormatted": "2019/09/14 00:00",
+                                "type": "or",
+                                "et": 432000000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "00:00 14-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568385120000,
+                                "end": 1568394000000,
+                                "endTime": 1568394000000,
+                                "iAt": "1568385076883000039"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 432000000,
+                                "startTimeSchFormatted": "2019/09/14 00:00",
+                                "stf": "00:00 14-09-2019",
+                                "endTimeSchFormatted": "2019/09/14 09:00",
+                                "type": "or",
+                                "et": 464400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 14-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568394000000,
+                                "end": 1568426400000,
+                                "endTime": 1568426400000,
+                                "iAt": "1568393466373000041"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 464400000,
+                                "startTimeSchFormatted": "2019/09/14 09:00",
+                                "stf": "09:00 14-09-2019",
+                                "endTimeSchFormatted": "2019/09/16 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568426400000,
+                                "end": 1568599200000,
+                                "endTime": 1568566800000,
+                                "iAt": "1568260478120000038"
+                            }
+                        ],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/16 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/16 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 16-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568566800000,
+                                "end": 1568599200000,
+                                "endTime": 1568599200000,
+                                "iAt": "1568260478120000038"
+                            },
+                            {
+                                "recipientLabel": "Long Le",
+                                "st": 37800000,
+                                "startTimeSchFormatted": "2019/09/16 10:30",
+                                "stf": "10:30 16-09-2019",
+                                "endTimeSchFormatted": "2019/09/17 09:00",
+                                "type": "or",
+                                "et": 118800000,
+                                "ruleIds": [],
+                                "recp": {
+                                    "id": "53760b5b-ae6b-4efe-a6c3-cea03091a295",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 17-09-2019",
+                                "recipient": "long.le0503@lazada.com",
+                                "startTime": 1568604600000,
+                                "end": 1568685600000,
+                                "endTime": 1568685600000,
+                                "iAt": "1568604434790000039"
+                            },
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 378000000,
+                                "startTimeSchFormatted": "2019/09/20 09:00",
+                                "stf": "09:00 20-09-2019",
+                                "endTimeSchFormatted": "2019/09/23 00:00",
+                                "type": "or",
+                                "et": 604800000,
+                                "ruleIds": [
+                                    "f3e97cbe-9a9e-4a06-b26a-374a7f6328af"
+                                ],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "Cannot be displayed (a future date than shown in this screen)",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1568944800000,
+                                "end": 1569204000000,
+                                "endTime": 1569171600000,
+                                "iAt": "1568850661079000042"
+                            }
+                        ],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [
+                            {
+                                "recipientLabel": "Thao Nguyen",
+                                "st": 0,
+                                "startTimeSchFormatted": "2019/09/23 00:00",
+                                "stf": "Cannot be displayed (a past date than shown in this screen)",
+                                "endTimeSchFormatted": "2019/09/23 09:00",
+                                "type": "or",
+                                "et": 32400000,
+                                "ruleIds": [
+                                    "f3e97cbe-9a9e-4a06-b26a-374a7f6328af"
+                                ],
+                                "recp": {
+                                    "id": "5ce25472-6528-4ad8-aef0-edf0cc966109",
+                                    "type": "user",
+                                    "ntfType": "default"
+                                },
+                                "etf": "09:00 23-09-2019",
+                                "recipient": "thao.nguyen@lazada.com",
+                                "startTime": 1569171600000,
+                                "end": 1569204000000,
+                                "endTime": 1569204000000,
+                                "iAt": "1568850661079000042"
+                            }
+                        ],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "name": "tms_duty",
+                        "periods": [],
+                        "id": "or",
+                        "ruleId": "f3e97cbe-9a9e-4a06-b26a-374a7f6328af",
+                        "order": 1.0
+                    }
+                ]
+            }
+        ],
+        "weekNumbers": []
+    },
+    "timeZone": "Asia/Bangkok",
+    "endMillis": 1570381200000
+}
